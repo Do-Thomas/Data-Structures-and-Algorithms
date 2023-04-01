@@ -1,0 +1,2 @@
+DF traverse all vertex from A:
+A E F I G B C H D 
